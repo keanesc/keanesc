@@ -8,5 +8,4 @@
 
 ## 📈 Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=keanesc&hide=contribs,prs&theme=transparent&layout=compact&hide_rank=true&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keanesc&hide=php&show_icons=true&theme=transparent&langs_count=5&layout=compact&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=keanesc&layout=compact&hide_rank=true&show_icons=true&hide_border=true&theme=transparent)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keanesc&hide=php&show_icons=true&langs_count=10&layout=compact&hide_border=true&theme=transparent)
