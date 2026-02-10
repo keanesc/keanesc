@@ -8,4 +8,5 @@
 
 ## 📈 Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=keanesc&layout=compact&hide_rank=true&show_icons=true&hide_border=true&theme=transparent)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keanesc&hide=css,html&show_icons=true&langs_count=10&layout=compact&hide_border=true&theme=transparent)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
