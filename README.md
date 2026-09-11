@@ -6,7 +6,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/keanesc/keanesc/output/github-contribution-grid-snake.svg">
 </picture>
 
-## 📈 Stats
+## Stats
 
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
